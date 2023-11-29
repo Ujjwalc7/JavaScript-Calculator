@@ -1,0 +1,34 @@
+.wrong{
+    color: red;
+}
+
+.body{
+    background-color: #1c2147;
+}
+
+.main{
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+}
+
+form{
+    max-width: 750px;
+    width: 100%;
+}
+
+select{
+    height: 30px;
+    border-radius: 7px;
+}
+
+input{
+    height: 30px;
+    color: black;
+    border-radius: 7px;
+}
+
+.answer-div{
+    max-width: 200px;
+    width: 100%;
+}
